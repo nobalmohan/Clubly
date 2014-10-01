@@ -1,4 +1,7 @@
 Clubly
 ======
 
-Complete UI layout for adventure clubs
+Complete UI layouts for adventure clubs
+
+Scaffloded by: Yeoman Angular Generators https://github.com/yeoman/generator-angular
+
