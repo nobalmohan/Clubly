@@ -3,5 +3,10 @@ Clubly
 
 Complete UI layouts for adventure clubs
 
-Scaffloded by: Yeoman Angular Generators https://github.com/yeoman/generator-angular
-
+Pages:
+Login Page
+Events Page
+Admin page
+Blog Page
+User Page
+Certificate Page
